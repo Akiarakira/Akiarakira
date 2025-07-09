@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi Everyone! I'm Akiara 👋
 
-<!--
-**Akiarakira/Akiarakira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Desarrolladora Web Full-Stack enfocada en Front-End
+💻 En camino hacia JavaScript Specialist
 
-Here are some ideas to get you started:
+## 👋 Bienvenida a mi universo GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Me encanta construir sitios web rápidos, accesibles y funcionales.
+- 🎯 Enfocada en mejorar mis habilidades cada día.
+- 🧠 Aprendiendo y aplicando **React, Tailwind y AlpineJS**.
+- 🤝 Abierta a colaboraciones.
+- 🧩 Ofrezco servicios freelance en desarrollo web.
+- 💼 Buscando oportunidades **remotas** a tiempo completo.
+
+### 🧰 Tecnologías que uso
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,tailwind,figma,git,github,wordpress" />
+</p>
+
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiarakira&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akiarakira&theme=radical)
+
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiarakira&layout=compact&theme=radical)
+
+### 🔗 Encuéntrame en otros espacios
+
+[![Instagram](https://img.shields.io/badge/@akiaradev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akiaradev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreina-di-brigida/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreinadibrigida8@gmail.com)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fakiarakira.github.io%2FPortfolio%2F)
+
+Gracias por visitar mi perfil 💜  
+¡Te invito a explorar mis proyectos! ⭐
