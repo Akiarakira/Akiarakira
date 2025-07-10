@@ -21,7 +21,7 @@
 ### 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiarakira&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akiarakira&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akiarakira&theme=tokyonight)
 
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiarakira&layout=compact&theme=tokyonight)
