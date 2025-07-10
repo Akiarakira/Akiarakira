@@ -3,7 +3,7 @@
 🌍 Desarrolladora Web Full-Stack enfocada en Front-End
 💻 En camino hacia JavaScript Specialist
 
-## 👋 Bienvenida a mi universo GitHub
+## 👋 Bienvenido a mi universo GitHub
 
 - 🚀 Me encanta construir sitios web rápidos, accesibles y funcionales.
 - 🎯 Enfocada en mejorar mis habilidades cada día.
