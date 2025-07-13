@@ -26,6 +26,13 @@
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiarakira&layout=compact&theme=tokyonight)
 
+
+###⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### 🔗 Encuéntrame en otros espacios
 
 [![Instagram](https://img.shields.io/badge/@akiaradev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akiaradev)
