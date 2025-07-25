@@ -1,18 +1,18 @@
 # Hi Everyone! I'm Akiara 👋
 
-🌍 Full-Stack Web Developer focused on Front-End
-💻 On my way to becoming a JavaScript Specialist
+🌍 Full-Stack Web Developer | Front-End Focused
+💻 Aspiring JavaScript Specialist
 
-## 👋 Welcome to my GitHub universe
+## 👋 Welcome to my GitHub Profile
 
-- 🚀 I love building fast, accessible, and functional websites.
+- 🚀 Passionate about building fast, accessible, and functional websites.
 - 🎯 Focused on improving my skills every day.
-- 🧠 Learning and applying **React, TypeScript, Tailwind and AlpineJS**.
-- 🤝 Open to collaborations.
-- 🧩 I offer freelance services in web development.
-- 💼 Looking for full-time remote opportunities.
+- 🧠 Currently learning and applying **React, TypeScript, Tailwind and AlpineJS**.
+- 🤝 Open to collaboration on interesting projects.
+- 🧩 Available for freelance web development services.
+- 💼 Actively seeking full-time remote opportunities.
 
-### 🧰 Technologies I use
+### 🧰 Technologies 
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,tailwind,figma,git,github,wordpress" />
@@ -41,7 +41,7 @@
 Last Updated: Friday, July 25th, 2025, 1:25:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-### 🔗 Find me online
+### 🔗 Let's connect
 
 [![Instagram](https://img.shields.io/badge/@akiaradev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akiaradev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreina-di-brigida/)
@@ -49,5 +49,5 @@ Last Updated: Friday, July 25th, 2025, 1:25:32 PM
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fakiarakira.github.io%2FPortfolio%2F)
 
-Thanks for visiting my profile 💜
-I invite you to explore my projects! ⭐
+Thank you for visiting! 💜
+Feel free to explore my projects! ⭐
