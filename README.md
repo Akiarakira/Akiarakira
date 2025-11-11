@@ -31,14 +31,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [joseorono/fantasy-puzzle-rpg](https://github.com/joseorono/fantasy-puzzle-rpg)<br>
-2. ⬆️ Pushed undefined commit(s) to [Akiarakira/Portfolio](https://github.com/Akiarakira/Portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [joseorono/fantasy-puzzle-rpg](https://github.com/joseorono/fantasy-puzzle-rpg)<br>
 3. ⬆️ Pushed undefined commit(s) to [joseorono/fantasy-puzzle-rpg](https://github.com/joseorono/fantasy-puzzle-rpg)<br>
 4. ⬆️ Pushed undefined commit(s) to [joseorono/fantasy-puzzle-rpg](https://github.com/joseorono/fantasy-puzzle-rpg)<br>
-5. ⬆️ Pushed undefined commit(s) to [joseorono/fantasy-puzzle-rpg](https://github.com/joseorono/fantasy-puzzle-rpg)<br>
+5. ⬆️ Pushed undefined commit(s) to [Akiarakira/Portfolio](https://github.com/Akiarakira/Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 1:21:04 PM
+Last Updated: Tuesday, November 11th, 2025, 1:38:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 🔗 Let's connect
