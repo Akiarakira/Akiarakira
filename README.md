@@ -33,12 +33,12 @@
 1. ⬆️ Pushed undefined commit(s) to [joseorono/clean-my-history](https://github.com/joseorono/clean-my-history)<br>
 2. ⬆️ Pushed undefined commit(s) to [joseorono/clean-my-history](https://github.com/joseorono/clean-my-history)<br>
 3. ⬆️ Pushed undefined commit(s) to [joseorono/clean-my-history](https://github.com/joseorono/clean-my-history)<br>
-4. ⬆️ Pushed undefined commit(s) to [Akiarakira/Portfolio](https://github.com/Akiarakira/Portfolio)<br>
-5. ⬆️ Pushed undefined commit(s) to [Akiarakira/portfolio-with-astro](https://github.com/Akiarakira/portfolio-with-astro)<br>
+4. ⬆️ Pushed undefined commit(s) to [joseorono/clean-my-history](https://github.com/joseorono/clean-my-history)<br>
+5. ⬆️ Pushed undefined commit(s) to [joseorono/clean-my-history](https://github.com/joseorono/clean-my-history)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 27th, 2025, 1:17:18 PM
+Last Updated: Sunday, December 28th, 2025, 1:54:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 🔗 Let's connect
