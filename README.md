@@ -1,16 +1,14 @@
 # Hi Everyone! I'm Akiara 👋
 
 🌍 Full-Stack Web Developer | Front-End Focused
-💻 Aspiring JavaScript Specialist
+💻 JavaScript Specialist
 
 ## 👋 Welcome to my GitHub Profile
 
-- 🚀 Passionate about building fast, accessible, and functional websites.
-- 🎯 Focused on improving my skills every day.
-- 🧠 Currently learning and applying **React, TypeScript, Tailwind and AlpineJS**.
-- 🤝 Open to collaboration on interesting projects.
-- 🧩 Available for freelance web development services.
-- 💼 Actively seeking full-time remote opportunities.
+- 🚀 Front-end-focused full-stack developer who cares about fast, accessible, and high-performance websites.
+- ⚡ I build with **React, TypeScript, Tailwind CSS, and Alpine.js**.
+- 💼 Actively seeking full-time remote roles and open to freelance web development projects.
+- 🤝 Always open to collaboration on interesting open-source or commercial builds.
 
 ### 🧰 Technologies 
 
